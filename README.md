@@ -30,6 +30,7 @@ MICrONS (v1300): https://spelunker.cave-explorer.org/#!middleauth+https://global
 Cheatsheet: https://docs.google.com/document/d/1bRGETwCIJEnwK7LseVLNBXwRMDPiHDU5s3eTJviyPvM/edit?usp=sharing
 
 More curated neuroglancer examples for MICrONS available at [the MICrONS Explorer Gallery](https://www.microns-explorer.org/gallery-mm3)
+
 More curated neuroglancer examples for FlyWire available at [the FlyWire Gallery](https://flywire.ai/gallery)
 
 If you are prompted to login: **Use any google profile to login when prompted.**
