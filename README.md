@@ -25,7 +25,7 @@ Neuroglancer is a web-based interface to view electron microscopy (EM), cell seg
 
 FlyWire (v783): https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/5993517542277120
 
-MICrONS (v1300): https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/5500223943081984 
+MICrONS (v1300): https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/5329535416401920 
 
 Cheatsheet: https://docs.google.com/document/d/1bRGETwCIJEnwK7LseVLNBXwRMDPiHDU5s3eTJviyPvM/edit?usp=sharing
 
