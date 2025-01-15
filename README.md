@@ -17,7 +17,7 @@ _Will be added after the workshop_
 
 ### FlyWire-Codex
 
-[Codex](codex.flywire.ai) provides interactive access to the [whole-brain fruit fly connectome](https://www.nature.com/articles/s41586-024-07558-y) created by [FlyWire](flywire.ai). Check out the [FlyWire YouTube channel](https://www.youtube.com/@flywireprinceton4189), which has multiple videos on how to use Codex and its latest features ([workshop video](https://www.youtube.com/watch?v=HrXvgXE1Q6Q)). 
+[Codex](https://codex.flywire.ai) provides interactive access to the [whole-brain fruit fly connectome](https://www.nature.com/articles/s41586-024-07558-y) created by [FlyWire](flywire.ai). Check out the [FlyWire YouTube channel](https://www.youtube.com/@flywireprinceton4189), which has multiple videos on how to use Codex and its latest features ([workshop video](https://www.youtube.com/watch?v=HrXvgXE1Q6Q)). 
 
 ### Neuroglancer
 
