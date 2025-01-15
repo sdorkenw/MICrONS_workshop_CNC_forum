@@ -1,4 +1,4 @@
-# MICrONS Workshop for the CNC Forum, 15 January 2025
+# Connectomics Workshop for the CNC Forum, 15 January 2025
 
 ## Presentation Outline and Presenters
 Forrest Collman, PhD, Associate Director at Allen Institute for Brain Science
