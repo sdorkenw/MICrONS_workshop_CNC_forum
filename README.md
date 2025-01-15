@@ -29,10 +29,10 @@ Manuscript describing the dataset: [Functional connectomics spanning multiple ar
 
 For this tutorial, we're going to use an online interface to notebooks called Google Colab. Go to the `MICrONS_data_access.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/sdorkenw/MICrONS_workshop_CNC_forum/blob/main/tutorials/MICrONS_data_access.ipynb) (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
 
-Exercises (to add links)
-* Excercise 1 - Cell-Type Connectivity
-* Exercise 2 - Inhibitory Connectivity
-* Exercise 3 - Inhibitory in/out degree
+Exercises [(on Github)](https://github.com/sdorkenw/MICrONS_workshop_CNC_forum/tree/main/exercises)
+* Excercise 1 - Cell-Type Connectivity [Google Colab](https://colab.research.google.com/github/sdorkenw/MICrONS_workshop_CNC_forum/blob/main/exercises/Exercise_1_cell_type_connectivity.ipynb)
+* Exercise 2 - Inhibitory Connectivity [Google Colab](https://colab.research.google.com/github/sdorkenw/MICrONS_workshop_CNC_forum/blob/main/exercises/Exercise_2_inhibitory_connectivity.ipynb)
+* Exercise 3 - Inhibitory in/out degree [Google Colab](https://colab.research.google.com/github/sdorkenw/MICrONS_workshop_CNC_forum/blob/main/exercises/Exercise_3_inhibitory_in_out_degree.ipynb)
 
 [Additional tools for programmatic access](https://github.com/sdorkenw/MICrONS_workshop_CNC_forum/blob/main/preprocessing/CAVE_quickstart_colab.ipynb)
 
