@@ -52,6 +52,7 @@ Query and visualize synaptic connectivity of neurons with the [Connectivity View
 
 
 ## Programmatic data access 
+Data Access overview [slides](https://docs.google.com/presentation/d/1plIk52sJ7Q2BB0H_3g2iQ5KA5UZuHM6cSHE83TH8JdM/edit?usp=sharing)
 
 For this tutorial, we're going to use an online interface to notebooks called Google Colab. Go to the `MICrONS_data_access.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/sdorkenw/MICrONS_workshop_CNC_forum/blob/main/tutorials/MICrONS_data_access.ipynb) (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
 
