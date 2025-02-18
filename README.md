@@ -1,17 +1,24 @@
-# Connectomics Workshop for the CNC Forum, 15 January 2025
+# Connectomics Workshop for the CNC Forum: Winter 2025
 
-## Presentation Outline and Presenters
-Forrest Collman, PhD, Associate Director at Allen Institute for Brain Science
+
+## Presentation 1: 15 January 2025
+
+Forrest Collman, PhD, Associate Director at the Allen Institute for Brain Science
 
 John Tuthill, PhD, Associate Professor at University of Washington
 
-Sven Dorkenwald, PhD, Shannahan Fellow at Allen Institute
+Sven Dorkenwald, PhD, Shannahan Fellow at the Allen Institute
 
-Bethanny Danskin, PhD, Scientist I at Allen Institute for Brain Science
+Bethanny Danskin, PhD, Scientist I at the Allen Institute for Brain Science
 
-## Slides
+## Presentation 2: 19 February 2025
 
-_Will be added after the workshop_
+Nuno da Costa, PhD, Associate Investigator at the Allen Institute for Brain Science
+
+Sven Dorkenwald, PhD, Shannahan Fellow at the Allen Institute
+
+Bethanny Danskin, PhD, Scientist I at the Allen Institute for Brain Science
+
 
 ## Non-Programmatic data access
 
